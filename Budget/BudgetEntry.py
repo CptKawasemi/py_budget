@@ -1,5 +1,3 @@
-#lol
-
 from tkinter import *
 import Module_Model
 from tkinter import messagebox
